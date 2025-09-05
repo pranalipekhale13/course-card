@@ -1,13 +1,39 @@
 .navbar{
-    padding:5px;
-    margin: auto;
-    background-color: bisque;
+    flex: 1;
+    text-align: right;
+    padding:10px;
+    margin-right: auto;
+    background-color: #ffce99;
 
+}
+title{
+    padding:0%;
+    font-size: 20px;
+   
+}
+.logo{
+    background-color: black;
+    margin:10px;
 }
 .nav-item{
+
     color: black;
+    margin-left: 10px;
 }
-
-
+body{
+   background-color: #fff3e6;
+   
+    padding: 0;
+    margin: 0;
+}
+.text {
+    width: 90%;
+    color: black;
+    position:absolute;
+    top:40%;
+    left: 50px;
+    font-size: 30px;
+    text-align: center;
+}
 
      
