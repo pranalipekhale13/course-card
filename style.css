@@ -35,5 +35,21 @@ body{
     font-size: 30px;
     text-align: center;
 }
+.card{
+    border: 1px solid black;
+    margin: 20px;
+    width:400px; 
+    padding: 30px 30px;
+    border-radius: 10px;
+    display: inline-block;
 
-     
+}
+.card-img{
+    height:64px;
+    width: 64px;
+}
+.card-title{
+    font-size: 30px;
+    text-align: center;
+
+}
