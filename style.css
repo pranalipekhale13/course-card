@@ -1,7 +1,14 @@
+.top{
+    font-size: 30px;
+    text-align: center;
+   margin-top: 2px;
+}
+
 .navbar{
     flex: 1;
     text-align: right;
     padding:10px;
+    margin-top: 5px;
     margin-right: auto;
     background-color: #ffce99;
 
@@ -13,8 +20,9 @@
    
 }
 .logo{
-    background-color: black;
-    margin:10px;
+    margin-left: 650px;
+    height: 200px;
+    
 }
 .heading{
     text-align: center; 
